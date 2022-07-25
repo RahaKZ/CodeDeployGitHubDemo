@@ -18,4 +18,3 @@ hooks:
 artifacts:
   files:
     - '**/*'
-  base-directory: base_location
